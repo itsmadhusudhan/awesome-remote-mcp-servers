@@ -371,6 +371,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ImgVX AI](https://imgvx.com/mcp-server/) `https://imgvx.com/mcp`
   [![ImgVX AI MCP connector](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.imgvx/imgvx-ai)
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
+- [Kalpana Designer](https://kalpana.one/mcp/designer) `https://mcp.kalpana.one/mcp/designer`
+  [![Kalpana Designer MCP connector](https://glama.ai/mcp/connectors/one.kalpana/designer/badges/score.svg)](https://glama.ai/mcp/connectors/one.kalpana/designer)
+  🔐 - Design editable social posts, banners and ads from a brief, with layout checks, previews and motion.
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
@@ -2337,6 +2340,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![IndustryLens MCP connector](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public/badges/score.svg)](https://glama.ai/mcp/connectors/com.industry-lens/mcp-public)
   🔓 - Competitive intelligence on B2B SaaS markets: competitor profiles, strategic moves, pricing changes and reports.
   
+- [Kalpana Batch](https://kalpana.one/mcp) `https://mcp.kalpana.one/mcp/batch`
+  [![Kalpana Batch MCP connector](https://glama.ai/mcp/connectors/one.kalpana/batch/badges/score.svg)](https://glama.ai/mcp/connectors/one.kalpana/batch)
+  🔐 - Fill design templates from a product list or spreadsheet and render banners, ads and listing images in bulk.
+
 - [Layrcake](https://layrcake.dev) `https://mcp.layrcake.dev/mcp`
   [![Layrcake MCP connector](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake/badges/score.svg)](https://glama.ai/mcp/connectors/dev.layrcake.mcp/layrcake)
   🔐 - Find leads, enrich them to verified emails, detect intent and launch human-approved campaigns.
